@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-
-=======
-ESPERA
->>>>>>> Initial commit
+Mudando um pouquinho
